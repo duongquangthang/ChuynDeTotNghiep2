@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+scikit-learn
+networkx
+python-igraph
+leidenalg
+joblib
+openpyxl
+matplotlib
+plotly
+pyvis
+streamlit-option-menu
